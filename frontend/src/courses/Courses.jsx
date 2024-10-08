@@ -1,6 +1,6 @@
 import React from 'react'
-import Course from '../component/course'
-import Footer from '../component/footer'
+import Course from '../component/Course'
+import Footer from '../component/Footer'
 import Navbar from '../component/navbar'
 
 
