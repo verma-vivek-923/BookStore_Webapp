@@ -78,7 +78,7 @@ function Signup() {
     </div>
     <div className='flex flex-col md:flex-row md:justify-between px-6 mt-6'>
         <button type="submit" className='bg-pink-700 hover:bg-pink-500 rounded-md border  text-white hover:text-black  duration-500 px-4 py-1'>Sign In</button>
-        <p className='flex justify-center mt-4 md:mt-1'>Already have an account ? <a  className='text-blue-500  no-underline hover:underline cursor-pointer'
+        <p className='text-sm md:text-base flex justify-center mt-4 md:mt-1'>Already have an account ? <a  className='text-blue-500  no-underline hover:underline cursor-pointer'
         onClick={()=>{
           document.querySelector("#my_modal_3").showModal()
           console.log("hello")
