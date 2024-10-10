@@ -11,7 +11,7 @@ function Banner() {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem qui excepturi nemo, veniam cum sint assumenda eaque consequatur esse sapiente dolor architecto repellat quis,
            </p>
         </div>
-        <button className="bg-pink-700 hover:bg-pink-500 rounded-md border text-white hover:text-black px-4 py-1  duration-500 mt-3 mb-8">Get Start</button>
+        <button className="bg-pink-700 hover:bg-pink-500 rounded-md  text-white hover:text-black px-4 py-1  duration-500 mt-3 mb-8">Get Start</button>
          </div>
         <div className="order-1 md:order-2 w-full md:w-1/2 ">
           <img src="/Banner.png" className='w-68 mt-16 ' alt="#" />
