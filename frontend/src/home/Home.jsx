@@ -11,7 +11,7 @@ function Home() {
 
    <Navbar/>
     <Banner/>
-    <FreeBook/>
+    {/* <FreeBook/> */}
     <Footer/>
     </div>
     </>
