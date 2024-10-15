@@ -1,1 +1,1 @@
-BookStore Web App
+"Welcome to BooksToStore, your one-stop shop for accessing and downloading books! Dive into our collection of free and paid books—perfect for both casual readers and students. Simply log in to explore our course books, purchase titles, or download them as PDFs. Start reading today!"
